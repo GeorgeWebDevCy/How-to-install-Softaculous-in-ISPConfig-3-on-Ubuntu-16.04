@@ -8,7 +8,7 @@ I installed Softaculous on ISPConfig 3 so I thought I would post this. Assuming 
 
 For 64Bit x86_64 Linux:
 
-1, cd /tmp
+1. cd /tmp
 2. wget http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz
 3. tar xfz ioncube_loaders_lin_x86-64.tar.gz
 
